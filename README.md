@@ -1,34 +1,30 @@
 # Langchain Demos
 
-![image](assets/gopher.jpeg){width="300"}
+<img src="assets/gopher.jpeg" alt="image" width="100300">
 
-Some demos and exercises that explore [Langchain Go](https://tmc.github.io/langchaingo/docs/).
+This repository contains demos and exercises exploring [Langchain Go](https://tmc.github.io/langchaingo/docs/).
 
-My original goal was to play with some AI tools and see how they worked.  I was also interested in the vector database side of things.  I have a few ideas for some projects that might be interesting.
-To be honest, I was thinking I was going to need to roll up my sleeves and dig into
-some docs and coding to get this to work.  Turns out its just a few lines of code. So from there, I was sold on using Langchain go.  
+My original goal was to experiment with AI tools and understand how they work, particularly the vector database aspect. I had a few project ideas in mind and expected to spend significant time digging into documentation and coding. However, I was pleasantly surprised by how simple it was to get started—just a few lines of code! From that point, I was sold on using Langchain Go.
 
-Langchain is a framework for building applications with LLMs.  It has a lot of support for different models and vector databases. These are all snippets and gists that I plan on using for further projects and knowledge transfer to other folks at work.
+Langchain is a framework for building applications with LLMs. It supports various models and vector databases. The snippets and gists here are intended for future projects and knowledge sharing with colleagues.
 
-You will need an API for most if not all of this.
-I skipped out on my Dunkin Doughnuts coffee for a week and what I saved has lasted me since 2024.
-Your milage may vary.  
+You will need an API for most, if not all, of these demos. I skipped my Dunkin' Donuts coffee for a week, and the savings have lasted me since 2024. Your mileage may vary.
 
-You can also sign up for an API with Google Gemini. <https://aistudio.google.com/>  
-This seems to be free and generous.
+You can also sign up for an API with Google Gemini: <https://aistudio.google.com/>  
+This seems to be free and quite generous.
 
-## Vector DB search with Langchain and ChromaDB
+## Vector DB Search with Langchain and ChromaDB
 
-The first experiment was to see how easy it was to set up a vector database and push and pull data from it.  
+The first experiment was to see how easy it is to set up a vector database and push/pull data from it.
 
-Pretty much the same demo as the langchain go.  Comes in two flavors.
+This demo is similar to the Langchain Go example and comes in two flavors:
 
-[Chroma demo with open ai](./vector-chroma/readme.md).
-[Chroma demo with Gemini](./vector-chroma-gemini/readme.md).
+- [Chroma demo with OpenAI](./vector-chroma/readme.md)  
+- [Chroma demo with Gemini](./vector-chroma-gemini/readme.md)
 
-## Generate from a simple prompt
+## Generate from a Simple Prompt
 
-[Simple Prompt with Gemini](./gemini-example-simple/readme.md).
+[Simple Prompt with Gemini](./gemini-example-simple/readme.md)
 
-Just a simple prompt to see how it works.  
+This is a basic example to demonstrate how it works.
 

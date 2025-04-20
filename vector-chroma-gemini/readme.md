@@ -37,8 +37,6 @@ API_KEY=xyz
 
 Again, Im using 8989...but you do you.
 
-## Results
 
-![image](image1.png)
 
 
