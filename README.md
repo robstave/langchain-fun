@@ -1,6 +1,6 @@
 # Langchain Demos
 
-<img src="assets/gopher.jpeg" alt="image" width="100300">
+<img src="assets/gopher2.png" alt="image" width="2500">
 
 This repository contains demos and exercises exploring [Langchain Go](https://tmc.github.io/langchaingo/docs/).
 
@@ -24,7 +24,8 @@ This demo is similar to the Langchain Go example and comes in two flavors:
 
 ## Generate from a Simple Prompt
 
-[Simple Prompt with Gemini](./gemini-example-simple/readme.md)
+Basic examples that demonstrate generating text from a simple prompt:
 
-This is a basic example to demonstrate how it works.
+- [Simple Prompt with Gemini](./gemini-example-simple/readme.md)
+- [Simple Prompt with OpenAI](./open-api-chat-simple/README.md)
 
