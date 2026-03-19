@@ -1,6 +1,6 @@
 # Langchain Demos
 
-<img src="assets/gopher2.png" alt="image" width="2500">
+<img src="assets/gopher2.png" alt="image" width="600">
 
 This repository contains demos and exercises exploring [Langchain Go](https://tmc.github.io/langchaingo/docs/).
 
